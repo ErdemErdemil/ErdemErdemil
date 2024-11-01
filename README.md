@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemerdemil" alt="erdemerdemil" /></a> </p>
 
-- 🔭 I’m currently working on **An Unreal Engine 5 Game**
+- 🔭 I’m currently working on **An CyberSecurity / Machine Learning Project**
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **Large Language Models**
 
 - 💬 Ask me about **DL, ML, NLP, DATABASES and GAMES.**
 
-- 📫 How to reach me **erdem_erdemil@hotmail.com**
+- 📫 How to reach me **[erdem_erdemil@hotmail.com](https://www.linkedin.com/in/erdemerdemil/)**
 
 - ⚡ Fun fact **I think I am a quick problem solver person.**
 
