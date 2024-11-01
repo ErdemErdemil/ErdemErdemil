@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DL, ML, NLP, DATABASES and GAMES.**
 
-- 📫 How to reach me **[erdem_erdemil@hotmail.com](https://www.linkedin.com/in/erdemerdemil/)**
+- 📫 How to reach me **You can reach me from LinkedIn https://www.linkedin.com/in/erdemerdemil/**
 
 - ⚡ Fun fact **I think I am a quick problem solver person.**
 
