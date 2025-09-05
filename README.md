@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemerdemil" alt="erdemerdemil" /></a> </p>
 
-- 🔭 I’m currently working on **An CyberSecurity / Machine Learning Project**
+- 🔭 I’m currently working on **An Automation Project With Python**
 
 - 🌱 I’m currently learning **Large Language Models**
 
