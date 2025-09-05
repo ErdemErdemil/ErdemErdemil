@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erdemerdemil" alt="erdemerdemil" /></a> </p>
 
-- 🔭 I’m currently working on **An Automation Project With Python**
+-  I’m currently working on **An Automation Project With Python**
 
-- 🌱 I’m currently learning **Large Language Models**
+-  I’m currently learning **Large Language Models**
 
-- 💬 Ask me about **DL, ML, NLP, DATABASES and GAMES**
+-  Ask me about **DL, ML, NLP, DATABASES and GAMES**
 
-- 📫 How to reach me **You can reach me from LinkedIn**
+-  How to reach me **You can reach me from LinkedIn**
 
-- ⚡ Fun fact **I think I am a quick problem solver person**
+-  Fun fact **I think I am a quick problem solver person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
