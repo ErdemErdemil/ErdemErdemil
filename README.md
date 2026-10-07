@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Erdem Erdemil</h1>
 <h3 align="center">Software Test & Quality Assistant Specialist | Automation & AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemerdemil&label=Profile%20views&color=0e75b6&style=flat" alt="erdemerdemil" /> </p>
-
 - I’m currently working on **Test Automation, Tools, and Environment Software**
 
 - I’m currently learning **Advanced Python Applications and AI Integrations in QA**
@@ -10,8 +8,6 @@
 - I am proud to hold an **[ISTQB Certification](https://app.diplomasafe.com/en-US/certificates/d45ac0acc694164e8994d7214ec823c1e8016811f)**
 
 - Ask me about **Software Quality Assurance, Test Automation, Python, and AI**
-
-- How to reach me: **You can reach me from LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +29,3 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemerdemil&show_icons=true&theme=dracula&text_color=660000&bg_color=6e6e6e&locale=en&layout=compact" alt="erdemerdemil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemerdemil&show_icons=true&locale=en" alt="erdemerdemil" /></p>
